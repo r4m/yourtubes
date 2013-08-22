@@ -9,15 +9,10 @@ This project was originally hosted at [Sourceforge](http://sourceforge.net/proje
 
 Run the file `YourTubes.m` to start the application.
 
-
 ## Demo
 
-If you want to know how to use the Yourtubes you can download a 
-[this demo](http://sourceforge.net/projects/yourtubes/files/) video.
-
-## Data set
-
-You can find some sample images in the directory 'IMG_DATA' [here](http://sourceforge.net/projects/yourtubes/files/).
+If you want to know how to use the Yourtubes you can download this 
+[demo](http://sourceforge.net/projects/yourtubes/files/yourtubes/08.04.29/Demo.wmv/download) video.
 
 ## License
 
